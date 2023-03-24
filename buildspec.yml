@@ -2,9 +2,9 @@ version: 0.2
 env:
   shell: bash
   variables:
-    AWS_DEFAULT_REGION: "us-west-2"
+    AWS_DEFAULT_REGION: "us-east-1"
     IMAGE_REPO_NAME: "skiapp"
-    AWS_ACCOUNT_ID: "180287136233"
+    AWS_ACCOUNT_ID: "659993572634"
   exported-variables:
    - IMAGE_TAG
   
